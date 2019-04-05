@@ -76,9 +76,10 @@
             <?php
             include 'cena.html';
             ?>
-
+<br>
+<img border="0" src="/Images/orngblckstrp.gif" width="780" height="31">
             <?php
-            include '';
+            include 'moi.html';
             
             ?>
 
