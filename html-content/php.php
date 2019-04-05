@@ -49,10 +49,12 @@
     </tr>
     <tr>
       <td height="31" colspan="3" align="center" bgcolor="#4B4B4B">
-     
+    
       </td>
+      
     </tr>
     <tr>
+      
       <td colspan="3">
       <img border="0" src="/Images/grystrp.gif" width="780" height="7"></td>
     </tr>
@@ -69,8 +71,16 @@
           
                
           </td>
+          
             </tr>
+            <?php
+            include 'cena.html';
+            ?>
 
+            <?php
+            include '';
+            
+            ?>
 
 
 
