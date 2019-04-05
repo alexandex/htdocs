@@ -1,0 +1,29 @@
+a:link
+{
+color: rgb(65, 30, 221)
+
+}
+
+a:active
+{
+    color: #FFD500; 
+    border-bottom: 1px dashed;
+
+}
+
+a:hover {
+    color: #7bdf0a; 
+    border-bottom: .07em solid;
+  }
+
+  .two {
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin: 13px;
+    font-size: 10px;  
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    transition: 0.4s ease-in-out;
+  }

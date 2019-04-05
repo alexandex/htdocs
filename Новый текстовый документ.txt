@@ -1,0 +1,6 @@
+<td><a href="html-content/comp.html"><img border="0" src="Images/cmpny.gif" width="58" height="31"></a></td>
+          <td><a href="#"><img border="0" src="Images/prds.gif" width="64" height="31"></a></td>
+          <td><a href="#"><img border="0" src="Images/srvc.gif" width="59" height="31"></a></td>
+          <td><a href="#"><img border="0" src="Images/chnprt.gif" width="110" height="31"></a></td>
+          <td><a href="#"><img border="0" src="Images/spprt.gif" width="54" height="31"></a></td>
+          <td><a href="#"><img border="0" src="Images/lgn.gif" width="95" height="31"></a></td>
